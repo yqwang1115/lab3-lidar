@@ -5,4 +5,4 @@ lidar_node:
     filter:
       enabled: true        # A组：false；B组改回 true
       radius: 0.10
-      min_neighbors: 3
+      min_neighbors: 2
